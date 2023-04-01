@@ -1,0 +1,2 @@
+# dotcli
+🦀 Config files manager
